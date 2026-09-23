@@ -3,10 +3,10 @@
 ## Finalidad
 Este paquete reúne el código computacional preservado que puede ponerse a disposición pública para consulta y reproducibilidad académica de la tesis sobre estimación de Sa(T=1.0 s) mediante aprendizaje automático en sismos de interfaz de subducción sudamericanos.
 
-**Estado:** candidato previo a publicación. No contiene aún una URL pública ni DOI.
+**Estado:** repositorio público de consulta y reproducibilidad académica.\n\n**URL pública:** https://github.com/rmgrafael/tesis-sa-subduccion-ml\n\n**DOI:** pendiente; podrá incorporarse posteriormente mediante archivado en Zenodo.
 
 ## Regla de integridad
-Las copias `*_PUBLICO.ipynb` conservan **sin modificación el tipo y el contenido fuente de cada celda**. Para publicación se eliminaron únicamente:
+La comparación posterior a la publicación confirmó que el tipo y el contenido fuente de todas las celdas de los notebooks públicos coinciden con los artefactos originales correspondientes; solo se retiraron salidas de ejecución, contadores y metadatos de usuario de Colab.\n\nLas copias `*_PUBLICO.ipynb` conservan **sin modificación el tipo y el contenido fuente de cada celda**. Para publicación se eliminaron únicamente:
 - salidas ejecutadas (`outputs`);
 - números de ejecución;
 - metadatos por celda de Google Colab, incluidos identificadores de usuario y ejecución.
@@ -45,4 +45,4 @@ La base NGA-Sub original **no se redistribuye en este candidato**. Debe obteners
 Los notebooks preservan las rutas empleadas durante la ejecución original (`/content/drive/MyDrive/Tesis/...`). Estas rutas no contienen credenciales, pero un tercero deberá adaptar la ubicación de los archivos a su propio entorno. La adaptación de rutas no debe alterar filtros, parámetros, semillas ni decisiones metodológicas.
 
 ## Licencia
-No se ha asignado todavía una licencia de reutilización. Antes de publicar en GitHub/Zenodo debe decidirse expresamente la licencia del código y comprobar las condiciones de redistribución de cada fuente de datos externa.
+No se ha asignado todavía una licencia de reutilización. La disponibilidad pública del repositorio permite su consulta, pero no implica por sí sola autorización adicional de reutilización. Antes de asignar una licencia al código deberá comprobarse su compatibilidad con las condiciones de las fuentes y dependencias externas.
