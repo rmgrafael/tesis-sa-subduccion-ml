@@ -1,0 +1,10 @@
+﻿clasificacion,material,justificacion
+PUBLICAR,Notebook maestro,Código principal oficial; copia pública sin outputs ni metadatos de usuario.
+PUBLICAR,Notebooks G/H/I/J/K,Código preservado con estado de procedencia explícito; I/J mantienen sus brechas documentadas.
+PUBLICAR_CON_ADVERTENCIA,Notebook F,Reconstrucción auditada; no equivale a artefacto histórico original ni a certificación exacta.
+PUBLICAR,Entorno exacto,requirements y environment YAML registrados en el Anexo L.
+REFERENCIAR,NGA-Sub MegaFlatfile original,Debe obtenerse de la fuente oficial; no se redistribuye en este candidato.
+REFERENCIAR,RAW acelerográficos y fuentes externas,No se redistribuyen hasta verificar permisos/licencias de cada proveedor.
+NO_PUBLICAR,Carpeta Codigo histórica,Contiene notebooks de desarrollo previos y no debe confundirse con la versión oficial.
+NO_PUBLICAR,99_Historico_No_Oficial,Material histórico separado expresamente del cierre oficial.
+NO_PUBLICAR,Diagnósticos cross-version como resultado oficial,"Pueden documentarse como diagnóstico, pero no sustituir resultados oficiales."
