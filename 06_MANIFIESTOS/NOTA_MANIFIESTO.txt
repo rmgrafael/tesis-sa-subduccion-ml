@@ -1,0 +1,1 @@
+SHA256_PAQUETE_CANDIDATO.csv enumera todos los archivos del candidato existentes antes de crear ese propio manifiesto; el ZIP final cuenta con un SHA-256 independiente.
