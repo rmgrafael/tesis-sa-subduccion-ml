@@ -1,0 +1,13 @@
+COMPARACIÓN DE COPIAS Y VERSIONES
+
+1. Notebook maestro
+- Resultados_V5: Notebook_Tesis_V5_1_FINAL_AUDITABLE (1).ipynb
+- Anexo A: Notebook_Tesis_V5_1_FINAL_AUDITABLE_HASH_OFICIAL.ipynb
+- Tamaño de ambos: 443604 bytes
+- SHA-256 de ambos: f55fa09a43c3811984d93278ee30f5d80a05de1a421ef8eded33f8a87e4036c5
+- Conclusión: son idénticos byte a byte.
+
+2. Análisis multievento K
+- K_ANALISIS_MULTIEVENTO_REPRODUCIBLE.ipynb es el notebook indicado en L_ORDEN_EJECUCION_REPRODUCIBLE.txt.
+- La copia ejecutada de Drive ID 1T0yeYbGkMwJxEzOhqsO4zFxvSfmet81N tiene el mismo código fuente y solo incorpora salidas de ejecución.
+- Otra copia titulada K_ANALISIS_MULTIEVENTO_REPRODUCIBLE_EJECUTADO.ipynb (Drive ID 1Bheq-qws3UF0QuevBKyfw9tkBVqJy9v5) contiene un desarrollo ampliado de 16 celdas y no se incluye como artefacto público principal en este candidato.
